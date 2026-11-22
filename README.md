@@ -12,6 +12,8 @@ SC-NC-ENGINE — repository foundation
 
 SC-NC Engine is being built as the simulation engine split out of SC-NeuroCore: the execution plans that run catalogued models over time, the native Rust and accelerated lanes that run them, and the checkpoint state and trace summaries that make a run resumable and comparable. It imports only SC-NC Core and SC-NC Catalogue. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed execution engine, native-lane runner, checkpoint store or qualified record schema.
 
+SC-NC Engine is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;
