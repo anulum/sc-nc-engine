@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-ENGINE",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "1db94377149886aa56d68ae2341fa51d541111a0278ac2160c54360fc163c4f9"
+  }
+}
